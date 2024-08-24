@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a passionate and detail-oriented Data Analyst with a strong foundation in data analysis, visualization, and data cleaning. With hands-on experience in Python, SQL, and data visualization tools like Tableau and Excel, I specialize in transforming raw data into actionable insights that drive informed decision-making. My expertise extends to data wrangling, exploratory data analysis (EDA), and the creation of interactive dashboards that effectively communicate complex data trends. I thrive on uncovering patterns and trends within datasets, and I am eager to leverage my analytical skills to contribute to impactful business solutions.
+I am a passionate and detail-oriented Data Analyst with a strong foundation in data analysis, visualization, and data cleaning. With hands-on experience in Python, SQL, and data visualization tools like Power BI, Tableau and Excel, I specialize in transforming raw data into actionable insights that drive informed decision-making. My expertise extends to data wrangling, exploratory data analysis (EDA), and the creation of interactive dashboards that effectively communicate complex data trends. I thrive on uncovering patterns and trends within datasets, and I am eager to leverage my analytical skills to contribute to impactful business solutions.
 
 ## My Github Stats
 
